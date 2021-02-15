@@ -4,12 +4,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 
 
-spring:
-  application:
-    name: timesheet-service
 
-
-  data:
-    mongodb:
-      uri: mongodb+srv://newuser1:19960709@timesheet.psmbg.mongodb.net/timesheet?retryWrites=true&w=majority
-      database: timesheet
