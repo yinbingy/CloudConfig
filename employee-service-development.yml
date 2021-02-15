@@ -1,0 +1,16 @@
+server:
+  port: 0
+spring:
+  application:
+    name: employee-service
+    
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: none
+  datasource:
+    url: jdbc:mysql://db-bfs-proj2.cxw2lmck4vx4.us-east-2.rds.amazonaws.com:3306/employee
+    username: admin
+    password: 3VVZ6FUBdRELsV4h
+    
+    
