@@ -14,3 +14,5 @@ spring:
     password: 3VVZ6FUBdRELsV4h
     
     
+user:
+  role: developer Hello Oct
